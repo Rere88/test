@@ -16,4 +16,8 @@ class Calculator
   def divide(a,b)
     puts "the answer is #{a / b}"
   end
+
+  def addOne(a)
+    puts "The answer is #{a + 1}"
+  end
 end
